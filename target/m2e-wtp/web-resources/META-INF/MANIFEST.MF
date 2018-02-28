@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: WebApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: BSF20799
+Implementation-Vendor-Id: com.az.learn
+Build-Jdk: 1.8.0_111
+Implementation-URL: http://projects.spring.io/spring-boot/webapp/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
